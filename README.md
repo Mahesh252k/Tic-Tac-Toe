@@ -33,4 +33,4 @@ Maintain a scoreboard to track wins, losses, and draws.
 Output:
 
 ![Image 1](images/output.png)
-![Image 2](images/nick wins.png)
+![Image 2](images/nickwins.png)
