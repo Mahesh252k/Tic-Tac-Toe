@@ -28,3 +28,9 @@ Future Enhancements 🚀
 Add Player vs Computer Mode with adjustable difficulty.
 Include customizable player names and themes.
 Maintain a scoreboard to track wins, losses, and draws.
+
+
+Output:
+
+![Image 1](images/output.png)
+![Image 2](images/nickwins.png)
